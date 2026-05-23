@@ -4,11 +4,12 @@
 
 ### 目前创作内容
 - **冰冰整合（Icece′s vanilla modpacks）**
-  一款基于原版Minecraft设计的基于客户端mod整合设计的整合包，旨在能够加入任意原版服、插件服的前提下，在保持原版UI风格、兼顾功能性设计的同时对用户的MC客户端进行美化，现处于内测尝鲜阶段
+- 一款基于原版Minecraft设计的基于客户端mod整合设计的整合包，旨在能够加入任意原版服、插件服的前提下，在保持原版UI风格、兼顾功能性设计的同时对用户的MC客户端进行美化，现处于内测尝鲜阶段
 **下载链接：**
   [Github（未上线）](https://github.com)
   [Modrinth（未上线）](https://modrinth.com/)
   [尝鲜包下载](https://modrinth.com)
+  
 
 
 ### 目前参与项目
